@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "hugo-brewm"
+title = "Mon super site"
+baseURL = "http://localhost:1313/"
+languageCode = "en-en"
+theme = "hugo-brew"
+
+[params]
+  author = "Cherel"
+  description = "Une petite description cool"
+  tagline = "Développeur. Designer. Penseur."
